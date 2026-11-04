@@ -1,45 +1,91 @@
-# x8-6
+<div align="center">
 
-A developer focused on building clean, efficient solutions.
-
-## About
-
-This is my GitHub profile repository. I'm working on various projects and continuously learning new technologies.
-
-## Tech Stack
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Current Focus
-
-- Building practical applications
-- Exploring modern development tools
-- Contributing to open source
-
-## Get in Touch
-
-Feel free to check out my repositories or reach out for collaboration opportunities.
-
-## GitHub Stats
+<p><code>x8-6@github ~ $ ./maintainer.sh</code></p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=x8-6&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&rank=-?" alt="trophy" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="no animated maintainer system scan" />
+</picture>
 </p>
+</div>
+
+<h2>Why I build in public</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>C++</code> · <code>C</code> · <code>Python</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>8 public repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>822 contributions · 75 active days</p></td>
+</tr>
+</table>
+
+<p>Building in public, documenting the work, and making the next contribution easier.</p>
+
+<h2>Open-source toolbox</h2>
+
+<p><code>x8-6@github ~ $ toolbox --list</code></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/x8-6/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only" alt="overview" />
-  <img src="https://raw.githubusercontent.com/x8-6/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="languages" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="no open-source technology toolbox" />
+</picture>
 </p>
 
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>C++</strong><br /><sub>54%</sub></td>
+<td width="17%" align="center"><strong>C</strong><br /><sub>46%</sub></td>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>0%</sub></td>
+<td width="17%" align="center"><strong>Astro</strong><br /><sub>0%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>0%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>0%</sub></td>
+</tr>
+</table>
+
+<h2>Repositories worth exploring</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/x8-6/x8-6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" />
-  <img src="https://raw.githubusercontent.com/x8-6/x8-6/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&repos=x8-6%2FDiscord-Quest-Auto-Completion-Selfbot%2Cx8-6%2Fx8-6&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&repos=x8-6%2FDiscord-Quest-Auto-Completion-Selfbot%2Cx8-6%2Fx8-6&v=oss-projects-1&mode=dark" width="860" alt="no maintainer repositories" />
+</picture>
 </p>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/x8-6/x8-6">x8-6</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="no open-source signal" />
+</picture>
+</p>
+
+<h2>Contribution trail</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="no contribution trail" />
+</picture>
+</p>
+
+<hr />
+
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=x8-6&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F197500859%3Fu%3D570e10ec813ed5b431fb226daf5ba73c858d9bbf%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="no community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/x8-6">GitHub</a></p>
+<p align="center"><sub>no · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
